@@ -1,3 +1,4 @@
+.gitignore
 opencv/Neural Style Transfer/__MACOSX
 opencv/Neural Style Transfer/NeuralStyleTransfer
 opencv/Neural Style Transfer/test.txt
